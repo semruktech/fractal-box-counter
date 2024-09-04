@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-The images you want to calculate fractal dimensions for must be in the images folder. (Supported file types: jpg, png, tif, gif)
+The images you want to calculate fractal dimensions for must be in the images (Supported file types: jpg, png, tif, gif) folder.
 From the terminal, go to the folder where you extracted the project files. Then the project can be run simply with the following command:
 
 ```bash
