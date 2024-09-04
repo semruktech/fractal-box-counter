@@ -21,9 +21,19 @@ Install a Python version greater than or equal to 3.11 on your machine.
 
 To install the required Python packages, run the following command in terminal:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Usage
+The images you want to calculate fractal dimensions for must be in the images folder. (Supported file types: jpg, png, tif, gif)
+From the terminal, go to the folder where you extracted the project files. Then the project can be run simply with the following command:
 
+```bash
+python main.py
+```
+
+When the interface is running, simply click on the location you want to calculate fractal dimension.
+The second click removes the previous calculation.
+You can click on the location you want to calculate fractal dimension again.
+Press q to exit the program.
