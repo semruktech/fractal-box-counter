@@ -33,7 +33,8 @@ From the terminal, go to the folder where you extracted the project files. Then 
 python main.py
 ```
 
-When the interface is running, simply click on the location you want to calculate fractal dimension.
-The second click removes the previous calculation.
-You can click on the location you want to calculate fractal dimension again.
-Press q to exit the program.
+When the interface is running: 
+- Simply click on the location you want to calculate fractal dimension.
+- The second click removes the previous calculation.
+- You can click on the location you want to calculate fractal dimension again.
+- Press q to exit the program.
