@@ -13,13 +13,14 @@ To run the project, the following software needs to be installed on your machine
   - opencv-python
   - scikit-image
   - numpy
-  - 
+
 If you already have these software and packages on your machine, proceed to the usage step, otherwise follow the installation step.
 
 ### Installation
 Install a Python version greater than or equal to 3.11 on your machine.
 
 To install the required Python packages, run the following command in terminal:
+
 '''bash
 pip install -r requirements.txt
 '''
