@@ -1,6 +1,9 @@
 # Fractal Box Counter
 This repository contains a Python script for performing single click fractal box counting on medical images. It can be used for image analysis and fractal dimension calculation in dental research.
 
+### Citations
+- [23/08/2025] Single-click automated fractal analysis for dental radiographs: a comparative evaluation with classic ImageJ methodSingle-click automated fractal analysis for dental radiographs: a comparative evaluation with classic ImageJ method ([link](https://doi.org/10.1186/s12903-025-05932-4)).
+
 ### Getting Started
 These instructions will help you set up the project on your local machine.
 
