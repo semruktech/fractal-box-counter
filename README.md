@@ -4,6 +4,19 @@ This repository contains a Python script for performing single click fractal box
 ### Citations
 - [23/08/2025] Single-click automated fractal analysis for dental radiographs: a comparative evaluation with classic ImageJ methodSingle-click automated fractal analysis for dental radiographs: a comparative evaluation with classic ImageJ method ([link](https://doi.org/10.1186/s12903-025-05932-4)).
 
+```bibtex
+@article{Balel_Sagtas_2025,
+  author       = {Balel, Yunus and Sağtaş, Kaan},
+  title        = {Single-click automated fractal analysis for dental radiographs: a comparative evaluation with classic ImageJ method},
+  journal      = {BMC Oral Health},
+  volume       = {25},
+  number       = {1360},
+  year         = {2025},
+  doi          = {10.1186/s12903-025-05932-4},
+  url          = {https://link.springer.com/article/10.1186/s12903-025-05932-4}
+}
+```
+
 ### Getting Started
 These instructions will help you set up the project on your local machine.
 
